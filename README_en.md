@@ -1,4 +1,4 @@
-中文版(README.md) | [English Version](./README_en.md)
+[中文版](README.md) | [English Version](./README_en.md)
 
 
 ### Getting Start
