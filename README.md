@@ -1,5 +1,5 @@
 # readthedocs-demo
-中文版 | [English Version](./README_en.md)
+[中文版](README.md) | [English Version](./README_en.md)
 
 
 ### 开始使用
